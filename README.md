@@ -10,7 +10,7 @@
   </a>
 </div>  
 
-<h3 align="center"><img src="https://media.giphy.com/media/qUABlXKRRvfQobzIXp/giphy.gif" width="50"/>Sup, I'm Maharib!
+<h3 align="center"><img src="https://media.giphy.com/media/qUABlXKRRvfQobzIXp/giphy.gif" width="50"/> Sup, I'm Maharib!
 <br><br>I'm a Fresh Cyber Security Graduate from UOWD👨‍🎓</h3>
 
 ---
